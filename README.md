@@ -13,7 +13,10 @@ Reference list for Introduction:
 More details on the work presented can be found here
 
 Figure 1: https://www.atsjournals.org/doi/10.1164/rccm.202008-3265OC
+
 Figure 2: https://www.medrxiv.org/content/10.1101/2021.05.12.21257086v1
+
 Figure 3: Manuscript in preparation
+
 Figure 4: https://www.biorxiv.org/content/10.1101/2020.10.13.334532v1
 
